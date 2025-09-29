@@ -45,13 +45,13 @@ Working Papers
 * **_FX Mismatch, Borrowing Constraints and Real Effects_** with M. Hakamada & T. Schulze (IMF), **IMF WP 2025 Forthcoming**
   * _Presented at IMF Research Department (2023), Boston College (2024), Oxford JIE Summer School (2024)_
     
-* _**(Pre-Ph.D) The Western African Journey Towards a Monetary Union **_
+* **_(Pre-Ph.D) The Western African Journey Towards a Monetary Union _**
   * _Presented at Universitat Autonoma de Barcelona (2020)_
 
-* _**Supply Chain Disruptions and Macroprudential Policy**_ with M. Giannetti (Stocholm), C. Mendicino (ECB) & D. Supera (Columbia Business School) _(WIP)_
+* **_Supply Chain Disruptions and Macroprudential Policy_** with M. Giannetti (Stocholm), C. Mendicino (ECB) & D. Supera (Columbia Business School) _(WIP)_
   * _Presented at Boston College (2025)_
 
-* _**Financial Frictions and Misallocation under Energy Shocks JMP**_ _(WIP)_
+* **_Financial Frictions and Misallocation under Energy Shocks JMP_** _(WIP)_
 
 <!--<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
