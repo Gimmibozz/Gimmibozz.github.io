@@ -59,9 +59,9 @@ Honors, Fellowships, Awards
 
 Skills
 ======
-**Languages** English (advanced C1), Italian (native), French (beginner A2)
-**Programming** MATLAB, STATA (Excellent), Python (Good), Github (Good), Latex (Excellent)
-**Job-related** Excellent organizational skills and ability to work in a team. Good problem-solving skills, ability to
+* **Languages** English (advanced C1), Italian (native), French (beginner A2)
+* **Programming** MATLAB, STATA (Excellent), Python (Good), Github (Good), Latex (Excellent)
+* **Job-related** Excellent organizational skills and ability to work in a team. Good problem-solving skills, ability to
 cope with stressing situation with positivism, adaptability.
 **Interests and Hobbies** Volunteering: During March and February 2017, I taught English in an elementary school in Kenya.
 From 2015, I help a youth association in organising a summer music festival in Venice, Italy.
