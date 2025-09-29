@@ -69,8 +69,8 @@ Boston College, USA <br>
 * Spring 2024:
   * _Teaching Assistant of Statistics, Undergraduate level_
   * Teaching Evaluations 4/5
-*  Fall 2023:
-  *  _Teaching Assistant of Macroeconomics I, Ph.D. level_
+* Fall 2023:
+  * _Teaching Assistant of Macroeconomics I, Ph.D. level_
   *  Teaching Evaluations 4/5
 
  <!-- <ul>{% for post in site.teaching reversed %}
