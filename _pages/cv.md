@@ -39,17 +39,17 @@ Working Papers
 ======
 * _**Economic Policy Uncertainty and the Bank Lending Channel**_ with M. Behn, C. Mendicino, A. Reghezza (ECB) & D. Supera
   * (Columbia Business School) ECB WP 2025 Forthcoming
-_ * Presented at ECB (2024), Boston College (2025), CESifo Munich JIE Summer School (2025), ECB (2025)
-  * Media Coverage: ECB Blog Post (September 2025)_
+  * _Presented at ECB (2024), Boston College (2025), CESifo Munich JIE Summer School (2025), ECB (2025)_
+  * _Media Coverage: ECB Blog Post (September 2025)_
     
 * **_FX Mismatch, Borrowing Constraints and Real Effects_** with M. Hakamada & T. Schulze (IMF), **IMF WP 2025 Forthcoming**
-  _* Presented at IMF Research Department (2023), Boston College (2024), Oxford JIE Summer School (2024)_
+  * _Presented at IMF Research Department (2023), Boston College (2024), Oxford JIE Summer School (2024)_
     
 * _**(Pre-Ph.D) The Western African Journey Towards a Monetary Union **_
-  _* Presented at Universitat Autonoma de Barcelona (2020)_
+  * _Presented at Universitat Autonoma de Barcelona (2020)_
 
 * _**Supply Chain Disruptions and Macroprudential Policy**_ with M. Giannetti (Stocholm), C. Mendicino (ECB) & D. Supera (Columbia Business School) _(WIP)_
-  _* Presented at Boston College (2025)_
+  * _Presented at Boston College (2025)_
 
 * _**Financial Frictions and Misallocation under Energy Shocks JMP**_ _(WIP)_
 
