@@ -53,9 +53,6 @@ Working Papers
 
 * **_Financial Frictions and Misallocation under Energy Shocks JMP_** _(WIP)_
 
-<!--<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  #{% endfor %}</ul>'''--->
 
 Teaching Experience
 ======
@@ -73,9 +70,6 @@ Boston College, USA <br>
   * _Teaching Assistant of Macroeconomics I, Ph.D. level_
   *  Teaching Evaluations 4/5
 
- <!--<ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>-->
   
 Honors, Fellowships, Awards
 ======
