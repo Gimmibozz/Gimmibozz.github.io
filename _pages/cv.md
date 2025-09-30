@@ -55,7 +55,7 @@ Working Papers
 
 <!--<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  #{% endfor %}</ul>''' --->
+  #{% endfor %}</ul>'''--->
 
 Teaching Experience
 ======
@@ -73,9 +73,9 @@ Boston College, USA <br>
   * _Teaching Assistant of Macroeconomics I, Ph.D. level_
   *  Teaching Evaluations 4/5
 
- <!-- <ul>{% for post in site.teaching reversed %}
+ <!--<ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> --->
+  {% endfor %}</ul>-->
   
 Honors, Fellowships, Awards
 ======
