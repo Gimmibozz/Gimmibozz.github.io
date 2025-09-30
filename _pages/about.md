@@ -14,7 +14,7 @@ With hands-on research experience at the **European Central Bank (ECB)** and the
 
 Take a look around to see my working papers, work in progress, and presentations!
 
-You can fin my [CV here](https://github.com/Gimmibozz/gimmibozz.github.io/blob/master/files/paper1.pdf)
+You can fin my [CV here](https://raw.github.com/Gimmibozz/gimmibozz.github.io/blob/master/files/paper1.pdf?raw=True)
 
 
 ## Contact Information
