@@ -22,6 +22,6 @@ bozzelli@bc.edu <br>
 +393406534990
 
 ## Research Committee
-Fabio Schiantarelli, Professor of Economics, Boston College, [schianta@bc.edu](mailto:schianta@bc.edu)
-Caterina Mendicino, Adviser, DG Monetary Policy, European Central Bank, [caterina.mendicino1@ecb.europa.eu](mailto:caterina.mendicino1@ecb.europa.eu)
-Rosen Valchev, Associate Professor of Economics, Boston College, [valchev@bc.edu](mailto:valchev@bc.edu)
+Fabio Schiantarelli, Professor of Economics, Boston College, [schianta@bc.edu](mailto:schianta@bc.edu)<br>
+Caterina Mendicino, Adviser, DG Monetary Policy, European Central Bank, [caterina.mendicino1@ecb.europa.eu](mailto:caterina.mendicino1@ecb.europa.eu)<br>
+Rosen Valchev, Associate Professor of Economics, Boston College, [valchev@bc.edu](mailto:valchev@bc.edu)<br>
