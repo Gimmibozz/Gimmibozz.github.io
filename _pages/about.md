@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Giada Bozzelli"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,3 +13,15 @@ My research sits at the intersection of **Macro-Finance, Financial Economics, an
 With hands-on research experience at the **European Central Bank (ECB)** and the **International Monetary Fund (IMF)**, my work is driven by a commitment to empirical and theoretical research with direct policy relevance.
 
 Take a look around to see my working papers, work in progress, and presentations!
+
+You can fin my [CV here](https://github.com/Gimmibozz/gimmibozz.github.io/blob/master/files/paper1.pdf)
+
+
+## Contact Information
+bozzelli@bc.edu <br>
++93406534990
+
+## Research Committee
+Fabio Schiantarelli, Professor of Economics, Boston College, [schianta@bc.edu](mailto:schianta@bc.edu)
+Caterina Mendicino, Adviser, DG Monetary Policy, European Central Bank, [caterina.mendicino1@ecb.europa.eu](mailto:caterina.mendicino1@ecb.europa.eu)
+Rosen Valchev, Associate Professor of Economics, Boston College, [valchev@bc.edu](mailto:valchev@bc.edu)
