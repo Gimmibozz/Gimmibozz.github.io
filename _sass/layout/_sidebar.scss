@@ -81,37 +81,34 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 72px;
-  // set width only, for non-square avatars
-  height: 90px;
+  display: block; // Ensures it takes its own line
+  width: 250px;   // Increased width for a bigger image
+  height: auto;   // Allows height to adjust proportionally for portrait
+  margin-bottom: 1em; // Add some space below the image
 
   @include breakpoint($large) {
-    display: block;
-    width: 250px;
-    height: 300px;
+    width: 250px; // Keep it consistent on desktop
+    height: auto;
   }
 
   img {
-    max-width: 200px;
-    border-radius: 0%;
-     width: 100%;
-     height:100%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
-    }
+    max-width: 100%;      // Ensures image doesn't overflow its container
+    height: auto;         // Maintains aspect ratio
+    border-radius: 0;     // Keeps it square/rectangular
+    display: block;       // Removes any extra space below the image
+    padding: 5px;         // Keep the border padding
+    border: 1px solid var(--global-border-color); // Keep the border
   }
 }
 
+}
+
 .author__content {
-  display: table-cell;
-  vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
-  line-height: 1;
+  display: block; // Changed from table-cell to stack below avatar
+  width: 100%;    // Make it take full width below the image
+  padding-left: 0; // Remove left padding as it's now below
+  padding-right: 0; // Remove right padding
+  line-height: 1.5; // Adjust line height for better readability
 
   @include breakpoint($large) {
     display: block;
